@@ -1,15 +1,19 @@
 song {
-    color: black;
-    padding: 10px;
+    color: #bd5e5e;
+    padding-block: 10px;
+    display: block;
+    background: rgba(135, 230, 215, 0.5);
 
 }
 pageTitle {
-    color: black;
+    color: #bd5e5e;
     padding-left:10px;
     padding-top: 10px;
     font-weight: 700;
     text-decoration: underline;
     display: block;
+    background: rgba(135, 230, 215, 0.5);
+    font-size: 30px;
 
 }
 
@@ -17,9 +21,12 @@ pageTitle {
 songTitle, artists, genres, year{
     display: block;
     margin-left: 10px;
+
+
 }
 songTitle {
     font-weight: 700;
+    font-size: 18px;
 }
 
 
