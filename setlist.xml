@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="setlist.css"?>
+<xs:schema xmlns:xs = "http://www.w3.org/2001/XMLSchema">
+    <setList> 
+        <pageTitle>Set List</pageTitle>
+        
+        <song>
+            <songTitle>Uptown Funk</songTitle>
+            <artists>
+                <artist>Bruno Mars</artist>
+                <artist>Mark Ronson</artist>
+            </artists>
+            <genres>
+                <genre>Funk</genre>
+                <genre>Pop</genre>
+            </genres>
+            <year>2014</year>
+        </song>
+        
+        <song>
+            <songTitle>Moves Like Jagger</songTitle>
+            <artists>
+                <artist>Maroon 5</artist>
+                <artist>Christina Aguilera</artist>
+            </artists>
+            <genres>
+                <genre>Pop</genre>
+            </genres>
+            <year>2010</year>
+        </song>
+        
+        <song>
+            <songTitle>Lady</songTitle>
+            <artists>
+                <artist>Modjo</artist>
+            </artists>
+            <genres>
+                <genre>French House</genre>
+            </genres>
+            <year>2000</year>
+        </song>
+        
+        <song>
+            <songTitle>Domino</songTitle>
+            <artists>
+                <artist>Jessie J</artist>
+            </artists>
+            <genres>
+                <genre>Pop</genre>
+            </genres>
+            <year>2011</year>
+        </song>
+        
+        <song>
+            <songTitle>Isn't She Lovely</songTitle>
+            <artists>
+                <artist>Stevie Wonder</artist>
+            </artists>
+            <genres>
+                <genre>R &#38; B</genre>
+                <genre>Soul</genre>
+            </genres>
+            <year>1976</year>
+        </song>
+        
+        <song>
+            <songTitle>Thinking Out Loud</songTitle>
+            <artists>
+                <artist>Ed Sheeran</artist>
+            </artists>
+            <genres>
+                <genre>Pop</genre>
+                <genre>Dance/Electronic</genre>
+            </genres>
+            <year>2014</year>
+        </song>
+        
+        <song>
+            <songTitle>Shut Up and Dance</songTitle>
+            <artists>
+                <artist>Walk the Moon</artist>
+            </artists>
+            <genres>
+                <genre>Pop</genre>
+                <genre>Alternative</genre>
+            </genres>
+            <year>2014</year>
+        </song>
+        
+        <song>
+            <songTitle>Proud Mary</songTitle>
+            <artists>
+                <artist>Tina Turner</artist>
+            </artists>
+            <genres>
+                <genre>Pop</genre>
+                <genre>R &#38; B</genre>
+            </genres>
+            <year>2009</year>
+        </song>
+        
+        <song>
+            <songTitle>We Found Love</songTitle>
+            <artists>
+                <artist>Rihanna</artist>
+                <artist>Calvin Harris</artist>
+            </artists>
+            <genres>
+                <genre>Pop</genre>
+                <genre>R &#38; B</genre>
+                <genre>Electronic Dance</genre>
+            </genres>
+            <year>2011</year>
+        </song>
+        
+        <song>
+            <songTitle>Just the Way You Are</songTitle>
+            <artists>
+                <artist>Bruno Mars</artist>
+            </artists>
+            <genres>
+                <genre>Pop</genre>
+                <genre>Soft Rock</genre>
+            </genres>
+            <year>2010</year>
+        </song>
+        
+    </setList>
+</xs:schema>

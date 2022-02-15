@@ -1,0 +1,49 @@
+song {
+    color: black;
+    padding: 10px;
+
+}
+pageTitle {
+    color: black;
+    padding-left:10px;
+    padding-top: 10px;
+    font-weight: 700;
+    text-decoration: underline;
+    display: block;
+
+}
+
+
+songTitle, artists, genres, year{
+    display: block;
+    margin-left: 10px;
+}
+songTitle {
+    font-weight: 700;
+}
+
+
+artists:before{
+    content: "Artist(s): "
+}
+genres:before{
+    content: "Genre(s): "
+}
+
+year:before{
+    content: "Year: "
+}
+
+genre:after {
+    content: ", "
+}
+genre:last-child::after {
+    content: ""
+}
+
+artist:after {
+    content: ",  "
+}
+artist:last-child::after {
+    content: ""
+}
